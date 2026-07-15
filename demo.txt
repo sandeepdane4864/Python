@@ -1,0 +1,18 @@
+Recommendation
+
+If the form accepts only whole numbers, enter:
+
+0 for all experience fields.
+0 days notice period.
+
+If the form allows decimals, you can honestly enter 0.25 years (approximately 3 months) only for technologies you actually used during your internship:
+
+MERN Stack – 0.25
+JavaScript – 0.25
+Node.js & Express.js – 0.25
+MongoDB – 0.25 (only if you used it in the internship; if it was MySQL only, enter 0.)
+
+Since you're applying as a fresher, entering 0 for years of experience is completely normal and is often the expected answer.appended the single line into the doemo file appended the single line into the demo file
+appended the single line into the demo file
+appended the single line into the demo file
+appended the single line into the demo file
