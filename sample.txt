@@ -1,3 +1,3 @@
-Write string s to stream.
+git push -u origin mainWrite string s to stream.
 Return the number of characters written
 adhflkjabdsfaksjdbakjlsdfklbasjklabjsk bhkjdfbaskhvdfkjblabfjj
